@@ -3,7 +3,7 @@
 ### 👨‍💻 Software Engineer | Fullstack & AI Engineering
 Based in Cairo, Egypt 🇪🇬 | [Connect on LinkedIn](https://www.linkedin.com/in/mohanad-al-ashry-a0b301220/)
 
-I am a software engineer passionate about bridging the gap between scalable web systems and intelligent AI agents. I specialize in building backend architectures that leverage NLP and Machine Learning to solve real-world problems.
+I am a software engineer passionate about bridging the gap between scalable web systems and intelligent AI agents. I specialize in building backend architectures that leverage Computer Vision, NLP and Machine Learning to solve real-world problems.
 
 - 🔭 I’m currently working on **AI-powered Knowledge Assistants & Agentic Workflows**
 - 🌱 I’m currently exploring **Multi-Agent Systems (CrewAI/LangGraph)**
@@ -17,6 +17,7 @@ I am a software engineer passionate about bridging the gap between scalable web 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 🛠 Fullstack & Backend Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
